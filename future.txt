@@ -2,3 +2,5 @@ In the future
 - consistent in learning programming, design, microcontroller
 - create more projects for my portfolio
 - finish freecodecamp
+- create a shop
+- collaborate with expert more 
