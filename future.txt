@@ -1,0 +1,4 @@
+In the future
+- consistent in learning programming, design, microcontroller
+- create more projects for my portfolio
+- finish freecodecamp
