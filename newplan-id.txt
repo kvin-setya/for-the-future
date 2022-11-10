@@ -11,3 +11,4 @@ Lorem Ipsum
 - wlwlwl
 - python
 - html
+- javascript
