@@ -9,6 +9,5 @@ Lorem Ipsum
 - wkwkwk
 - wlwlwl
 - python
-- angular
-- react
-- 
+- html
+- javascript
