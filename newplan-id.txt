@@ -9,3 +9,6 @@ Lorem Ipsum
 - dsjfkdjs
 - wkwkwk
 - wlwlwl
+- python
+- html
+- javascript
